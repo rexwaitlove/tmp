@@ -9,4 +9,5 @@
 	echo "At google plus+ work";
 
 	echo "New branch ,test stash!!";
+	echo "New branch ,According  stash record stage!!";
 ?>
